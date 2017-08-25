@@ -1,0 +1,15 @@
+.container-fluid {
+	background-color: #fa8072
+}
+div {
+	border: 1px solid pink;
+}
+.col-md-4{ 
+	background-color:  rgb(127,255,212) 
+	}
+	#dragon {
+		transform: rotate(90deg); 
+		width: 15%; 
+		position: relative;
+		display: none;
+	}
